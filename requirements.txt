@@ -1,0 +1,10 @@
+holidays
+numpy
+pandas
+matplotlib
+seaborn
+xgboost
+lightgbm
+scikit-learn
+ipython
+jupyter
